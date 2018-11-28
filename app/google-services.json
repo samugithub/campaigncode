@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "745311812801",
+    "firebase_url": "https://samuelprojekti.firebaseio.com",
+    "project_id": "samuelprojekti",
+    "storage_bucket": "samuelprojekti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745311812801:android:95a35e13f1442b9c",
+        "android_client_info": {
+          "package_name": "campaigncode.tool.fsecure.com.campaigncode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745311812801-hnvrvu6l9vburr4ki44goqpldpfim7nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf0qdYKAAz3VNynJIJ9xM9PPYfvsL0Tw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">campaigncode</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextView">TextView</string>
+    <string name="button">Button</string>
+    <string name="textView2">Campaign Code Tester</string>
+    <string name="teksti">teksti</string>
+</resources>
